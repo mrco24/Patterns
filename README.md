@@ -1,1 +1,1 @@
-# -My-Gf-Patterns
+# My-Gf-Patterns
