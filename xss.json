@@ -2,18 +2,18 @@
      "flags": "-iE", 
      "patterns": [
 
-"cmd="
-"z="
-"q="
-"query="
-"searchstring="
-"keywords="
-"file="
-"years="
-"txt="
-"tag="
-"max="
-"from="
+"cmd=",
+"z=",
+"q=",
+"query=",
+"searchstring=",
+"keywords=",
+"file=",
+"years=",
+"txt=",
+"tag=",
+"max=",
+"from=",
 "author=",
 "pass=",
 "feedback=",
