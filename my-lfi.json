@@ -3,6 +3,7 @@
      "patterns": [
 
 "id=",
+"=",        
 "action=",
 "page=",
 "name=",
